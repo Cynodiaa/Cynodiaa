@@ -11,7 +11,7 @@
 ## 📱 Social Media Accounts
 <p align="left">
 <a href="https://open.spotify.com/user/31kbqr7wumi34dpmh6sdr6nee5ie?si=5be914b723da4136" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://discord.com/users/932692365859246112" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/932692365859246112" target"blank_"><img src="https://img.shields.io/badge/Discord-4000ff?style=for-the-badge&logo=discord&logoColor=white"></a>
  <a href="https://www.youtube.com/channel/UCylStkjinlcWLvF8MJRCSiQ/videos" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
