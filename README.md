@@ -15,6 +15,6 @@
  <a href="https://www.youtube.com/channel/UCylStkjinlcWLvF8MJRCSiQ/videos" target"blank_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=byzasn&label=Numbers%20of%20visitors&color=ff4600" alt="Cynodiaa"/>
+<img src="https://komarev.com/ghpvc/?username=Cynodiaa&label=Numbers%20Of%20Visitors&color=ff0000" alt="Cynodiaa"/>
 
 
